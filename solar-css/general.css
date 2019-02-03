@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/* This CSS file contains all stylings that are generally applicable to all pages. */
+
+.solar-navbar {
+  top: 0;
+  padding: 0;
+  width: 100%;
+  position: fixed;
+  text-align: center;
+}
+
+.solar-navbar .container {
+  background-color: #303030;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0;
+  text-align: center;
+}
+
+.solar-navbar .container ul {
+  margin: 0 auto;
+}
+

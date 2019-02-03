@@ -7,9 +7,6 @@ guide so that we can easily distinguish between CSS we write and CSS that
 originates in the template:
 
 -All external CSS files we write should be located in the "solar-css" folder.
--Each of these files should be titled following the format "solar-xyz.css".
-    -For example, the CSS file pertaining to just the "index.html" page should
-     be titled "scsc-index.css".
 -Any class or id written within these CSS files should be titled following the
  format "solar-xyz"
     -For example, "#solar-header" or ".solar-title"
