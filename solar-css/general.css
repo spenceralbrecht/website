@@ -8,10 +8,10 @@
   width: 100%;
   position: fixed;
   text-align: center;
+  background-color: #303030;
 }
 
 .solar-navbar .container {
-  background-color: #303030;
   margin: 0 auto;
   width: 100%;
   padding: 0;
@@ -22,3 +22,21 @@
   margin: 0 auto;
 }
 
+.solar-navbar .container a {
+  padding-top: 0;
+}
+
+.solar-navbar img {
+  width: auto;
+  height: 50px;
+  padding-bottom: 5px;
+}
+
+.ftco-navbar-light .navbar-nav > .nav-item > .solar-link {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.ftco-navbar-light.scrolled {
+  background:#E0E0E0 !important;
+}
